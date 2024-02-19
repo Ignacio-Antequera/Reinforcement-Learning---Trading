@@ -3,6 +3,8 @@
 ## Introduction
 Hello there! My name is Ignacio Antequera and this repository contains a project focused on applying reinforcement learning techniques to stock trading scenarios. The project aims to develop an agent capable of making buy and sell decisions based on historical market data, with the goal of maximizing profits in a simulated trading environment.
 
+Link to visualize demo of the project on the browser: [Automated Stock Trading System using Reinforcement Learning](https://stocktradingsystem-rl.netlify.app/)
+
 ## Models Used
 - Deep Q-Learning: The project utilizes the deep Q-learning algorithm, which combines Q-learning with deep neural networks to approximate the Q-function. This allows the agent to learn an optimal policy for making buy and sell decisions based on historical market data.
 - Monte Carlo Simulations: Monte Carlo simulations are used to evaluate the agent's performance across multiple simulations, providing a more accurate estimate of its expected performance.
